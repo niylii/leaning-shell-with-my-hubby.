@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -type f -name "*.gef" -exec basename {} .gef \; | sort -f
