@@ -1,3 +1,2 @@
 #!/bin/bash
- printenv PATH | tr ':' '\n' | wc -l#!/bin/bash
  printenv PATH | tr ':' '\n' | wc -l
