@@ -1,0 +1,3 @@
+#!/bin/bash
+local BEST=school
+#only accessible within the function where it's defined.
